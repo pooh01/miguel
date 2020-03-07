@@ -1,6 +1,11 @@
 /*
 @import url("https://pooh01.github.io/miguel/style.css");
 */
+
+/*
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP");
+*/
+
 .navbar-brand {
     height: auto;
     padding: 5px 0;
@@ -10,10 +15,8 @@
     line-height: 1.5em;
 }
 
-/*
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP");
-*/
 .entry-content {
     font-family: 'Noto Sans JP', serif;
     font-weight:bold !important;
 }
+
