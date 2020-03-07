@@ -9,3 +9,10 @@
     font-weight:bold !important;
     line-height: 1.5em;
 }
+
+/*
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP");
+*/
+.entry-content {
+    font-family: 'Noto Sans JP', serif;
+}
