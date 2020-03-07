@@ -11,8 +11,7 @@
     line-height: 1.5em;
 }
 
-.entry-content {
-    font-size: 32px;
+.media .media-body .media-heading {
     font-weight:bold !important;
 }
 
