@@ -15,4 +15,5 @@
 */
 .entry-content {
     font-family: 'Noto Sans JP', serif;
+    font-weight:bold !important;
 }
